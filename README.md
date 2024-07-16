@@ -1,6 +1,6 @@
 # Zynth
 
-This project was my Bachelor's degree endeavor, where I designed a monophonic and semi-modular Digitally Controlled Analog Sound Synthesizer named **The Zynth**.
+This was my Bachelor's degree project, where I designed a monophonic and semi-modular Digitally Controlled Analog Sound Synthesizer named **The Zynth**.
 
 ## Key Components
 
